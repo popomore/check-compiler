@@ -1,0 +1,10 @@
+{
+  "name": "babel",
+  "dependencies": {
+    "babel-cli": "^6.23.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.23.0"
+  },
+  "scripts": {
+    "compile": "babel *.js -d ../dist/babel"
+  }
+}

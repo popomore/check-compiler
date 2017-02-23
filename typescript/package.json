@@ -1,0 +1,9 @@
+{
+  "name": "typescript",
+  "dependencies": {
+    "typescript": "^2.2.1"
+  },
+  "scripts": {
+    "compile": "tsc *.ts --outDir ../dist/typescript"
+  }
+}
